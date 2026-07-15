@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="Estoque.Api/Estoque.Api.csproj" Id="b1bec09f-30fd-4ed8-a843-af5c35a17502" />
+  <Project Path="Estoque.Application.Tests/Estoque.Application.Tests.csproj" Id="a726a433-cfc1-4b32-b7e2-4c998b982437" />
+  <Project Path="Estoque.Application/Estoque.Application.csproj" Id="96d317b7-918d-47a6-b3c2-a7254918f463" />
+  <Project Path="Estoque.Domain.Tests/Estoque.Domain.Tests.csproj" Id="0bda0e08-1486-4048-9c3b-fbfda69d665f" />
+  <Project Path="Estoque.Domain/Estoque.Domain.csproj" Id="dbe721ef-69ef-4cd4-8ce9-6a345fadd1c7" />
+  <Project Path="Estoque.Infrastructure/Estoque.Infrastructure.csproj" Id="c7a1e4e2-4d3f-4a2b-9d6a-8f2b1e5c9a3d" />
+  <Project Path="Estoque.Infrastructure.Tests/Estoque.Infrastructure.Tests.csproj" Id="a1b2c3d4-1111-4a2b-9d6a-8f2b1e5c9a3d" />
+  <Project Path="Pedidos.Api/Pedidos.Api.csproj" Id="4fb33299-91dc-4eb5-bd1a-f39519e953c5" />
+  <Project Path="Pedidos.Api.Tests/Pedidos.Api.Tests.csproj" Id="a1b2c3d4-2222-4a2b-9d6a-8f2b1e5c9a3d" />
+  <Project Path="Pedidos.Application.Tests/Pedidos.Application.Tests.csproj" Id="1f4d2b20-7153-4464-81d3-d854d240585e" />
+  <Project Path="Pedidos.Application/Pedidos.Application.csproj" Id="16d1aa2e-b7a1-4a58-b0bd-bd7f84c6b928" />
+  <Project Path="Pedidos.Domain.Tests/Pedidos.Domain.Tests.csproj" Id="5a985f8c-d5af-4d30-9f6c-8dbd0b6f6160" />
+  <Project Path="Pedidos.Domain/Pedidos.Domain.csproj" Id="28e34c35-1e8e-40d6-b88e-7962b420391c" />
+  <Project Path="Pedidos.Infrastructure/Pedidos.Infrastructure.csproj" Id="536b92e9-70b0-4da5-b539-549ee3cebf11" />
+  <Project Path="Pedidos.Infrastructure.Tests/Pedidos.Infrastructure.Tests.csproj" Id="a1b2c3d4-3333-4a2b-9d6a-8f2b1e5c9a3d" />
+</Solution>
