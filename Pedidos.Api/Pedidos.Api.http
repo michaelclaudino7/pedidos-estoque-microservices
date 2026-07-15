@@ -1,0 +1,19 @@
+@Pedidos.Api_HostAddress = https://localhost:7188
+
+POST {{Pedidos.Api_HostAddress}}/pedidos
+Content-Type: application/json
+
+{
+  "itens": [
+    {
+      "nomeProduto": "Teclado Mecânico",
+      "quantidade": 2,
+      "precoUnitario": 250.00
+    },
+    {
+      "nomeProduto": "Mouse Gamer",
+      "quantidade": 1,
+      "precoUnitario": 150.00
+    }
+  ]                                             
+}
